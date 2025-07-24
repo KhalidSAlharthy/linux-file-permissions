@@ -36,6 +36,12 @@ Linux uses the following values for each permission:
 | **Group**  | `rwx`       | 111    | 4 + 2 + 1 = **7** |
 | **Others** | `r-x`       | 101    | 4 + 0 + 1 = **5** |
 
+# Flowchart for the previous example
+
+
+<img width="771" height="1005" alt="Permissions are divided into 3 parts (1)" src="https://github.com/user-attachments/assets/def8c8d9-309f-4dab-9b7a-a3ecc14179b8" />
+
+
 # Linux Implementation
 The following image shows the implementation of changing file permissions using the chmod command in the Linux terminal.
 <img width="1278" height="799" alt="Screenshot 2025-07-24 171800" src="https://github.com/user-attachments/assets/250caec3-8572-420e-84fb-5b15843aff36" />
