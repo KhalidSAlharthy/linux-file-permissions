@@ -46,5 +46,6 @@ Linux uses the following values for each permission:
 
 # Linux Implementation
 The following image shows the implementation of changing file permissions using the chmod command in the Linux terminal.
+
 <img width="1278" height="799" alt="Screenshot 2025-07-24 171800" src="https://github.com/user-attachments/assets/250caec3-8572-420e-84fb-5b15843aff36" />
 
