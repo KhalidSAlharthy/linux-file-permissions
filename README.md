@@ -16,9 +16,9 @@ To change a file’s permissions in Linux using the chmod command, the general f
 
 sudo chmod [permissions] [filename]
 
-So, in our example, to apply rwxrwxr-x permissions to a file called linuxtask.py, we write:
+So, in our example, to apply rwxrwxr-x permissions to a file called linuxt.py, we write:
 
-sudo chmod 775 linuxtask.py
+sudo chmod 775 linuxt.py
 
 But why do we use 775?
 
